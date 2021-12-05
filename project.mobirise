@@ -95,7 +95,7 @@
       "themeColor": "#ffe3e1"
     },
     "favicon": false,
-    "mbrsiteDomain": "8rr6hhmvju",
+    "mbrsiteDomain": "ksderyjrzn",
     "cssOptimize": false,
     "lazyLoad": false,
     "robotsSwitcher": false,
@@ -104,7 +104,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "pwa-switcher": true
+    "pwa-switcher": true,
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"jNULG33PjwfezYYswP2m7Xvyx3okQL95XWeXy1YiW18\" />",
+    "global_after_body": "<meta name=\"google-site-verification\" content=\"jNULG33PjwfezYYswP2m7Xvyx3okQL95XWeXy1YiW18\" />"
   },
   "pages": {
     "index.html": {
